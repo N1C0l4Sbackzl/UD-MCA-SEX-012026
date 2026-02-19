@@ -15,3 +15,13 @@ Semestre: 7°
 Bairro: Paraíso
 Trabalha: Estou estagiando 
 Objetivo: Me consolidar na área de engenharia de software
+
+------------------------------------------------
+
+Nome completo: Fernando Frizone Alves Junior
+RA: 82319688
+Curso: Engenharia de Software
+Semestre: 6°
+Bairro: Mooca
+Trabalha: Estou trabalhando 
+Objetivo: Entender melhor da minha area e seguir atuando nela
