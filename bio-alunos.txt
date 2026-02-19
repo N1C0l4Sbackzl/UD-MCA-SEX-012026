@@ -5,3 +5,13 @@ Semestre: 5°
 Bairro: Cidade Tiradentes
 Trabalha: Sim
 Objetivo: Encontrar amor recíproco 
+
+------------------------------------------------
+
+Nome completo: Pedro Moura de Oliveira 
+RA: 823130837
+Curso: Engenharia de Software
+Semestre: 7°
+Bairro: Paraíso
+Trabalha: Estou estagiando 
+Objetivo: Me consolidar na área de engenharia de software
