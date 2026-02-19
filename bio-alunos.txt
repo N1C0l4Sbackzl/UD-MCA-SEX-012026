@@ -26,6 +26,13 @@ Bairro: Mooca
 Trabalha: Estou trabalhando 
 Objetivo: Entender melhor da minha area e seguir atuando nela
 
+------------------------------------------------
 
-
+Nome completo: André Nunes Valério
+RA: 823149304
+Curso: Engenharia de Software
+Semestre: 7°
+Bairro: Jaraguá
+Trabalha: Estou trabalhando 
+Objetivo: Evoluir na minha área profissional como gerente de projetos
 
