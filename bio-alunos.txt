@@ -36,3 +36,12 @@ Bairro: Jaraguá
 Trabalha: Estou trabalhando 
 Objetivo: Evoluir na minha área profissional como gerente de projetos
 
+------------------------------------------------
+
+Nome completo: Diego Matheus Silva Santos
+RA: 823144748
+Curso: Engenharia de Software
+Semestre: 7°
+Bairro: Itaquera/Vila Regina
+Trabalha: Sim
+Objetivo: criar meu proprio negocio
