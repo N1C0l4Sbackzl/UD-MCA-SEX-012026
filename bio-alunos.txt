@@ -48,10 +48,3 @@ Objetivo: criar meu proprio negocio
 
 ------------------------------------------------
 
-Nome completo: Alan Edilson Pacheco Avila
-RA: 823130809
-Curso: Engenharia de Software
-Semestre: 7°
-Bairro: São Miguel Paulista
-Trabalha: Sim
-Objetivo: Casar e fazer crescer meu negocio
