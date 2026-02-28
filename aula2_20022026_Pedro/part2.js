@@ -1,3 +1,4 @@
+// Pedro Moura de Oliveira, RA 823130837
 // Atividade parte 2
 
 let mesa = {

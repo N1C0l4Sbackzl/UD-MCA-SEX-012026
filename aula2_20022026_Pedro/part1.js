@@ -1,3 +1,4 @@
+// Pedro Moura de Oliveira, RA 823130837
 // Atividade parte 1
 
 let comida = ['Macarrão', 'Arroz', 'Feijão', 'Maçã', 'Pera', 'Abacaxi', 'Frango', 'Pastel', 'Carne', 'Salada', 'Tomate', 'Banana', 'Laranja', 'Chocolate', 'Goiaba', 'Brocolis', 'Queijo', 'Pão', 'Presunto', 'Atum', 'Bacalhau'];
