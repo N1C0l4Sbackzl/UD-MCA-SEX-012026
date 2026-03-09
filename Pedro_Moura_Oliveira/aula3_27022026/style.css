@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    color: ivory;
+    background-color: black;
+    font-family: serif;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
+    height: 100px;
+    color: black;
+    background-color: beige;
+    padding: 10px;
+    text-align: center;
+    margin: 20px;
+    border-radius: 20px;
+}
+
+h1 {           
+    color: black;
+    background-color: beige
+}
+
+.topo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sobre {
+    padding: 2%;
+}
+
+.sobre2{
+    margin-left: 65px;
+}
+
+.lista{
+    padding: 2%;
+}
+
+.lista1 {
+    margin-left: 50px;
+}
+
+footer {
+    display: grid;
+    align-items: last baseline;
+    height: 380px;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+.links {
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+		
+		
